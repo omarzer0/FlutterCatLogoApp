@@ -29,7 +29,6 @@ Scaffold makeAppBody() {
       fit: BoxFit.fill,
       height: double.infinity,
       width: double.infinity,
-      alignment: Alignment.center,
       image: AssetImage('images/cat_image.jpg'),
     ),
   );
